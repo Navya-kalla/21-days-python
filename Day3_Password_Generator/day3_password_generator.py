@@ -1,5 +1,5 @@
 import random
-
+#Password_generator_project
 print("PASSWORD GENERATOR")
 characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 symbols="!@#$%^&*_"
