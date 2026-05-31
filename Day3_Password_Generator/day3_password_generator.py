@@ -5,12 +5,11 @@ characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 symbols="!@#$%^&*_"
 digits = "0123456789"
 while True:
-    # password_length=int(input("Length of the password: "))
+    password_length=int(input("Length of the password: "))
     symbols_choice = input("Do you want any symbols in the password(y/n):").lower()
     digit_choice = input("Do you want any digits in your password(y/n): ").lower()
 
     for i in range(5):
-        ch=0
         password=""
         if(symbols_choice=="y" and digit_choice == "y"):
             pool = characters+symbols+digits
@@ -20,7 +19,6 @@ while True:
             pool = characters+symbols
         else:
             pool = characters
-        password_length=int(input("Length of the password: "))     
         for i in range(password_length):
             password += random.choice(pool)
 
