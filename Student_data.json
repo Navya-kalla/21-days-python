@@ -1,0 +1,16 @@
+{
+    "Navya": {
+        "English": 66,
+        "Telugu": 77,
+        "Maths": 88,
+        "Science": 77,
+        "Social": 88
+    },
+    "Bhuvana": {
+        "English": 77,
+        "Telugu": 88,
+        "Maths": 55,
+        "Science": 99,
+        "Social": 66
+    }
+}
