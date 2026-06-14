@@ -1,0 +1,302 @@
+{
+    "EMP001": {
+        "name": "Laya",
+        "age": 24,
+        "department": "IT",
+        "salary": 181250.0
+    },
+    "EMP002": {
+        "name": "Priya",
+        "age": 39,
+        "department": "HR",
+        "salary": 65000
+    },
+    "EMP003": {
+        "name": "Amit",
+        "age": 30,
+        "department": "Operations",
+        "salary": 45000
+    },
+    "EMP004": {
+        "name": "Sneha",
+        "age": 27,
+        "department": "Sales",
+        "salary": 95000
+    },
+    "EMP005": {
+        "name": "Rohan",
+        "age": 24,
+        "department": "IT",
+        "salary": 40000
+    },
+    "EMP006": {
+        "name": "Ananya",
+        "age": 35,
+        "department": "HR",
+        "salary": 110000
+    },
+    "EMP007": {
+        "name": "Vikram",
+        "age": 23,
+        "department": "Sales",
+        "salary": 60000
+    },
+    "EMP008": {
+        "name": "Pooja",
+        "age": 48,
+        "department": "HR",
+        "salary": 100000
+    },
+    "EMP009": {
+        "name": "Arjun",
+        "age": 39,
+        "department": "IT",
+        "salary": 150000
+    },
+    "EMP010": {
+        "name": "Neha",
+        "age": 32,
+        "department": "Operations",
+        "salary": 95000
+    },
+    "EMP011": {
+        "name": "Deepak",
+        "age": 43,
+        "department": "Finance",
+        "salary": 50000
+    },
+    "EMP012": {
+        "name": "Kriti",
+        "age": 35,
+        "department": "Finance",
+        "salary": 45000
+    },
+    "EMP013": {
+        "name": "Sanjay",
+        "age": 27,
+        "department": "Marketing",
+        "salary": 45000
+    },
+    "EMP014": {
+        "name": "Divya",
+        "age": 44,
+        "department": "Finance",
+        "salary": 125000
+    },
+    "EMP015": {
+        "name": "Aditya",
+        "age": 38,
+        "department": "IT",
+        "salary": 145000
+    },
+    "EMP016": {
+        "name": "Riya",
+        "age": 51,
+        "department": "Sales",
+        "salary": 45000
+    },
+    "EMP017": {
+        "name": "Manish",
+        "age": 46,
+        "department": "IT",
+        "salary": 115000
+    },
+    "EMP018": {
+        "name": "Tanvi",
+        "age": 40,
+        "department": "Operations",
+        "salary": 125000
+    },
+    "EMP019": {
+        "name": "Abhishek",
+        "age": 45,
+        "department": "Sales",
+        "salary": 60000
+    },
+    "EMP020": {
+        "name": "Isha",
+        "age": 26,
+        "department": "IT",
+        "salary": 135000
+    },
+    "EMP021": {
+        "name": "Rajesh",
+        "age": 36,
+        "department": "Finance",
+        "salary": 40000
+    },
+    "EMP022": {
+        "name": "Meera",
+        "age": 36,
+        "department": "IT",
+        "salary": 90000
+    },
+    "EMP023": {
+        "name": "Suresh",
+        "age": 39,
+        "department": "Marketing",
+        "salary": 130000
+    },
+    "EMP024": {
+        "name": "Swati",
+        "age": 45,
+        "department": "HR",
+        "salary": 85000
+    },
+    "EMP025": {
+        "name": "Karan",
+        "age": 44,
+        "department": "HR",
+        "salary": 135000
+    },
+    "EMP026": {
+        "name": "Anjali",
+        "age": 39,
+        "department": "Operations",
+        "salary": 135000
+    },
+    "EMP027": {
+        "name": "Vijay",
+        "age": 26,
+        "department": "Sales",
+        "salary": 130000
+    },
+    "EMP028": {
+        "name": "Aisha",
+        "age": 32,
+        "department": "Sales",
+        "salary": 145000
+    },
+    "EMP029": {
+        "name": "Alok",
+        "age": 37,
+        "department": "HR",
+        "salary": 100000
+    },
+    "EMP030": {
+        "name": "Shreya",
+        "age": 46,
+        "department": "Finance",
+        "salary": 130000
+    },
+    "EMP031": {
+        "name": "Nitin",
+        "age": 36,
+        "department": "Operations",
+        "salary": 80000
+    },
+    "EMP032": {
+        "name": "Preeti",
+        "age": 25,
+        "department": "HR",
+        "salary": 35000
+    },
+    "EMP033": {
+        "name": "Sunil",
+        "age": 42,
+        "department": "Marketing",
+        "salary": 70000
+    },
+    "EMP034": {
+        "name": "Kavita",
+        "age": 26,
+        "department": "HR",
+        "salary": 120000
+    },
+    "EMP035": {
+        "name": "Vivek",
+        "age": 42,
+        "department": "HR",
+        "salary": 130000
+    },
+    "EMP036": {
+        "name": "Payal",
+        "age": 53,
+        "department": "Marketing",
+        "salary": 130000
+    },
+    "EMP037": {
+        "name": "Gaurav",
+        "age": 51,
+        "department": "HR",
+        "salary": 70000
+    },
+    "EMP038": {
+        "name": "Nisha",
+        "age": 30,
+        "department": "HR",
+        "salary": 145000
+    },
+    "EMP039": {
+        "name": "Akash",
+        "age": 38,
+        "department": "Operations",
+        "salary": 120000
+    },
+    "EMP040": {
+        "name": "Ritu",
+        "age": 49,
+        "department": "Sales",
+        "salary": 90000
+    },
+    "EMP041": {
+        "name": "Pranav",
+        "age": 45,
+        "department": "HR",
+        "salary": 50000
+    },
+    "EMP042": {
+        "name": "Jyoti",
+        "age": 54,
+        "department": "Marketing",
+        "salary": 40000
+    },
+    "EMP043": {
+        "name": "Harish",
+        "age": 25,
+        "department": "IT",
+        "salary": 50000
+    },
+    "EMP044": {
+        "name": "Komal",
+        "age": 32,
+        "department": "Operations",
+        "salary": 95000
+    },
+    "EMP045": {
+        "name": "Manoj",
+        "age": 26,
+        "department": "Marketing",
+        "salary": 90000
+    },
+    "EMP046": {
+        "name": "Sapna",
+        "age": 51,
+        "department": "Sales",
+        "salary": 70000
+    },
+    "EMP047": {
+        "name": "Sandeep",
+        "age": 22,
+        "department": "Operations",
+        "salary": 145000
+    },
+    "EMP048": {
+        "name": "Arti",
+        "age": 29,
+        "department": "Operations",
+        "salary": 115000
+    },
+    "EMP049": {
+        "name": "Varun",
+        "age": 39,
+        "department": "Operations",
+        "salary": 80000
+    },
+    "EMP050": {
+        "name": "Simran",
+        "age": 29,
+        "department": "Finance",
+        "salary": 95000
+    }
+}
