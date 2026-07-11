@@ -1,0 +1,37 @@
+[
+    {
+        "city": "London",
+        "temperature": 27.25,
+        "humidity": 53,
+        "wind_speed": 3.58,
+        "description": "clear sky"
+    },
+    {
+        "city": "Vijayawada",
+        "temperature": 37.18,
+        "humidity": 31,
+        "wind_speed": 5.1,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 29.39,
+        "humidity": 75,
+        "wind_speed": 7.74,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "Ooty",
+        "temperature": 17.67,
+        "humidity": 79,
+        "wind_speed": 2.03,
+        "description": "overcast clouds"
+    },
+    {
+        "city": "New York",
+        "temperature": 23.95,
+        "humidity": 79,
+        "wind_speed": 4.02,
+        "description": "overcast clouds"
+    }
+]
