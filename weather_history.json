@@ -33,5 +33,12 @@
         "humidity": 79,
         "wind_speed": 4.02,
         "description": "overcast clouds"
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 27.93,
+        "humidity": 82,
+        "wind_speed": 2.1,
+        "description": "overcast clouds"
     }
 ]
