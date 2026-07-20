@@ -1,0 +1,34 @@
+Skipped: Anaconda3-2025.12-2-Windows-x86_64.exe
+Skipped: attendance_prediction_updated.ipynb
+Moved: cancer.csv -> CSV Files
+Skipped: ChatGPT Installer.exe
+Skipped: desktop.ini
+Moved: download (1).jfif -> Images
+Moved: download (2).jfif -> Images
+Moved: download (3).jfif -> Images
+Moved: download (4).jfif -> Images
+Moved: download (5).jfif -> Images
+Moved: download (6).jfif -> Images
+Moved: download (7).jfif -> Images
+Moved: download (8).jfif -> Images
+Moved: download (9).jfif -> Images
+Moved: download.jfif -> Images
+Moved: entropy-formula-2.webp -> Images
+Moved: For those with good taste (no hate)🤍.jfif -> Images
+Moved: fotor-video_remover_object-preview-20260714212135.mp4 -> Videos
+Moved: I fell into the discovery world_𖤐⋆_.jfif -> Images
+Moved: Jersey moment nani.jfif -> Images
+Moved: Medical_insurance.csv -> CSV Files
+Moved: meetinglistdetails_2026_05_30_2026_05_30.csv -> CSV Files
+Skipped: Microsoft.Services.Store.winmd
+Skipped: Music - Shortcut.lnk
+Moved: Nani (1).jfif -> Images
+Moved: nani.jfif -> Images
+Skipped: OBS-Studio-32.0.4-Windows-x64-Installer.exe
+Skipped: python-3.14.5-amd64.exe
+Moved: Shyam Singha Roy - NANI NEW MOVIE 2021.jfif -> Images
+Moved: Starry Night.jfif -> Images
+Skipped: VSCodeUserSetup-x64-1.114.0.exe
+Moved: wallpaper.jpg.jfif -> Images
+Moved: WhatsApp Video 2026-07-14 at 9.13.06 PM.mp4 -> Videos
+Moved: You're on your own, kid!.jfif -> Images
